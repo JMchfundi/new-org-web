@@ -1,9 +1,6 @@
 <template>
 
-    <body>
-
-
-        
+    <body>        
             <!-- Carousel Start -->
             <div class="header-carousel owl-carousel">
                 <div class="header-carousel-item">
