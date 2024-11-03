@@ -13,7 +13,7 @@
                 </div>
                 <div class="col-lg-4 text-center text-lg-end">
                     <div class="d-inline-flex align-items-center" style="height: 45px;">
-                        <a href="mailto:info@domain.org" class="text-muted small me-0"><i class="fas fa-envelope text-primary me-2"></i>info@domain.org</a>
+                        <a href="mailto:info@fmf.or.ke" class="text-muted small me-0"><i class="fas fa-envelope text-primary me-2"></i>info@fmf.or.ke</a>
                     </div>
                 </div>
             </div>
@@ -82,7 +82,8 @@
         <div class="container-fluid position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
                 <a href="" class="navbar-brand p-0">
-                    <h1 class="text-primary"><i class="fas fa-search-dollar me-3"></i>domain-org</h1>
+                    <h1 class="text-primary">fm-foundation</h1>
+                    <!-- <i class="fas fa-search-dollar me-3"></i> -->
                     <!-- <img src="img/logo.png" alt="Logo"> -->
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -92,19 +93,23 @@
                     <div class="navbar-nav ms-auto py-0">
                         <a href="index.html" class="nav-item nav-link active">Home</a>
                         <a href="about.html" class="nav-item nav-link">About</a>
-                        <a href="service.html" class="nav-item nav-link">Services</a>
-                        <a href="blog.html" class="nav-item nav-link">Blogs</a>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link" data-bs-toggle="dropdown">
-                                <span class="dropdown-toggle">Pages</span>
+                                <span class="dropdown-toggle">Management</span>
                             </a>
                             <div class="dropdown-menu m-0">
-                                <a href="feature.html" class="dropdown-item">Our Features</a>
-                                <a href="team.html" class="dropdown-item">Our team</a>
-                                <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                                <a href="offer.html" class="dropdown-item">Our offer</a>
-                                <a href="FAQ.html" class="dropdown-item">FAQs</a>
-                                <a href="404.html" class="dropdown-item">404 Page</a>
+                                <a href="feature.html" class="dropdown-item">Advisory Board</a>
+                                <a href="team.html" class="dropdown-item">Our Office</a>
+                            </div>
+                        </div>
+                        <a href="service.html" class="nav-item nav-link">Our Success</a>
+                        <div class="nav-item dropdown">
+                            <a href="#" class="nav-link" data-bs-toggle="dropdown">
+                                <span class="dropdown-toggle">Our Programs</span>
+                            </a>
+                            <div class="dropdown-menu m-0">
+                                <a href="feature.html" class="dropdown-item">Activities</a>
+                                <a href="team.html" class="dropdown-item">Confined Areas</a>
                             </div>
                         </div>
                         <a href="contact.html" class="nav-item nav-link">Contact Us</a>
