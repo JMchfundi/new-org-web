@@ -95,7 +95,7 @@
                         <a href="about.html" class="nav-item nav-link">About</a>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link" data-bs-toggle="dropdown">
-                                <span class="dropdown-toggle">Management</span>
+                                <span class="dropdown-toggle">Team</span>
                             </a>
                             <div class="dropdown-menu m-0">
                                 <a href="feature.html" class="dropdown-item">Advisory Board</a>
