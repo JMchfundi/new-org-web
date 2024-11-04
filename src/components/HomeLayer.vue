@@ -119,47 +119,26 @@
               </p>
               <div class="row">
                 <div class="col-lg-6 wow fadeInLeft" data-wow-delay="0.2s">
-                  <ul class="list-group">
-                    <li
-                      class="list-group-item d-flex justify-content-between align-items-center"
-                    >
-                      Cras justo odio
-                      <span class="badge badge-primary badge-pill">14</span>
-                    </li>
-                    <li
-                      class="list-group-item d-flex justify-content-between align-items-center"
-                    >
-                      Dapibus ac facilisis in
-                      <span class="badge badge-primary badge-pill">2</span>
-                    </li>
-                    <li
-                      class="list-group-item d-flex justify-content-between align-items-center"
-                    >
-                      Morbi leo risus
-                      <span class="badge badge-primary badge-pill">1</span>
-                    </li>
-                  </ul>
-
-                  <div class="bg-primary rounded mt-2 mb-2">
-                    <img src="img/about-2.png" class="img-fluid w-100" alt="" />
-                  </div>
-                </div>
-                <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.2s">
+                  <ul class="list-unstyled">
+                <li class="text-capitalize"><i class="fas fa-angle-right me-2 text-primary"></i>empowering youth and women</li>
+                <li class="text-capitalize"><i class="fas fa-angle-right me-2 text-primary"></i>combating sexual and gender-based violence</li>
+                <li class="text-capitalize"><i class="fas fa-angle-right me-2 text-primary"></i>fostering peace and security</li>
+              </ul>
                   <div
-                    class="accordion accordion-flush rounded"
+                    class="accordion accordion-flush rounded mt-2"
                     id="accordionFlushSection"
                   >
                     <div class="accordion-item rounded-top">
                       <h2 class="accordion-header" id="flush-headingOne">
                         <button
-                          class="accordion-button collapsed rounded-top"
+                          class="display-5 accordion-button collapsed rounded-top text-primary"
                           type="button"
                           data-bs-toggle="collapse"
                           data-bs-target="#flush-collapseOne"
                           aria-expanded="false"
                           aria-controls="flush-collapseOne"
                         >
-                          What Does This Tool Do?
+                          Vision
                         </button>
                       </h2>
                       <div
@@ -169,24 +148,23 @@
                         data-bs-parent="#accordionFlushSection"
                       >
                         <div class="accordion-body">
-                          Placeholder content for this accordion, which is
-                          intended to demonstrate the
-                          <code>.accordion-flush</code> class. This is the first
-                          item's accordion body.
+                          To create a just, empowered, and sustainable society
+                          where youth, women, and communities thrive in harmony
+                          with nature, free from violence and inequality.
                         </div>
                       </div>
                     </div>
                     <div class="accordion-item">
                       <h2 class="accordion-header" id="flush-headingTwo">
                         <button
-                          class="accordion-button collapsed"
+                          class="display-5 accordion-button collapsed text-primary"
                           type="button"
                           data-bs-toggle="collapse"
                           data-bs-target="#flush-collapseTwo"
                           aria-expanded="false"
                           aria-controls="flush-collapseTwo"
                         >
-                          What Are The Disadvantages Of Online Trading?
+                          Mission
                         </button>
                       </h2>
                       <div
@@ -196,129 +174,20 @@
                         data-bs-parent="#accordionFlushSection"
                       >
                         <div class="accordion-body">
-                          Placeholder content for this accordion, which is
-                          intended to demonstrate the
-                          <code>.accordion-flush</code> class. This is the
-                          second item's accordion body. Let's imagine this being
-                          filled with some actual content.
+                          To empower youth and women through education, economic
+                          opportunities, and advocacy, while promoting
+                          environmental sustainability and combating sexual and
+                          gender-based violence. We foster peace and security by
+                          addressing local conflicts and engaging communities in
+                          meaningful dialogue and social change.
                         </div>
                       </div>
                     </div>
-                    <div class="accordion-item">
-                      <h2 class="accordion-header" id="flush-headingThree">
-                        <button
-                          class="accordion-button collapsed"
-                          type="button"
-                          data-bs-toggle="collapse"
-                          data-bs-target="#flush-collapseThree"
-                          aria-expanded="false"
-                          aria-controls="flush-collapseThree"
-                        >
-                          Is Online Trading Safe?
-                        </button>
-                      </h2>
-                      <div
-                        id="flush-collapseThree"
-                        class="accordion-collapse collapse"
-                        aria-labelledby="flush-headingThree"
-                        data-bs-parent="#accordionFlushSection"
-                      >
-                        <div class="accordion-body">
-                          Placeholder content for this accordion, which is
-                          intended to demonstrate the
-                          <code>.accordion-flush</code> class. This is the
-                          second item's accordion body. Let's imagine this being
-                          filled with some actual content.
-                        </div>
-                      </div>
-                    </div>
-                    <div class="accordion-item">
-                      <h2 class="accordion-header" id="flush-headingFour">
-                        <button
-                          class="accordion-button collapsed"
-                          type="button"
-                          data-bs-toggle="collapse"
-                          data-bs-target="#flush-collapseFour"
-                          aria-expanded="false"
-                          aria-controls="flush-collapseFour"
-                        >
-                          What Is Online Trading, And How Dose It Work?
-                        </button>
-                      </h2>
-                      <div
-                        id="flush-collapseFour"
-                        class="accordion-collapse collapse"
-                        aria-labelledby="flush-headingFour"
-                        data-bs-parent="#accordionFlushSection"
-                      >
-                        <div class="accordion-body">
-                          Placeholder content for this accordion, which is
-                          intended to demonstrate the
-                          <code>.accordion-flush</code> class. This is the
-                          second item's accordion body. Let's imagine this being
-                          filled with some actual content.
-                        </div>
-                      </div>
-                    </div>
-                    <div class="accordion-item">
-                      <h2 class="accordion-header" id="flush-headingFive">
-                        <button
-                          class="accordion-button collapsed"
-                          type="button"
-                          data-bs-toggle="collapse"
-                          data-bs-target="#flush-collapseFive"
-                          aria-expanded="false"
-                          aria-controls="flush-collapseFive"
-                        >
-                          Which App Is Best For Online Trading?
-                        </button>
-                      </h2>
-                      <div
-                        id="flush-collapseFive"
-                        class="accordion-collapse collapse"
-                        aria-labelledby="flush-headingFive"
-                        data-bs-parent="#accordionFlushSection"
-                      >
-                        <div class="accordion-body">
-                          Placeholder content for this accordion, which is
-                          intended to demonstrate the
-                          <code>.accordion-flush</code> class. This is the
-                          second item's accordion body. Let's imagine this being
-                          filled with some actual content.
-                        </div>
-                      </div>
-                    </div>
-                    <div class="accordion-item rounded-bottom">
-                      <h2 class="accordion-header" id="flush-headingSix">
-                        <button
-                          class="accordion-button collapsed"
-                          type="button"
-                          data-bs-toggle="collapse"
-                          data-bs-target="#flush-collapseSix"
-                          aria-expanded="false"
-                          aria-controls="flush-collapseSix"
-                        >
-                          How To Create A Trading Account?
-                        </button>
-                      </h2>
-                      <div
-                        id="flush-collapseSix"
-                        class="accordion-collapse collapse"
-                        aria-labelledby="flush-headingSix"
-                        data-bs-parent="#accordionFlushSection"
-                      >
-                        <div class="accordion-body">
-                          Placeholder content for this accordion, which is
-                          intended to demonstrate the
-                          <code>.accordion-flush</code> class. This is the third
-                          item's accordion body. Nothing more exciting happening
-                          here in terms of content, but just filling up the
-                          space to make it look, at least at first glance, a bit
-                          more representative of how this would look in a
-                          real-world application.
-                        </div>
-                      </div>
-                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.2s">
+                    <div class="bg-primary rounded">
+                    <img src="img/about-2.png" class="img-fluid w-100" alt="" />
                   </div>
                 </div>
               </div>
