@@ -25,12 +25,12 @@ export default {
                   this.$loadScript("lib/owlcarousel/owl.carousel.min.js").then(
                     () => {
                       this.$loadScript(
-                        "assets/vendor/isotope-layout/isotope.pkgd.min.js"
+                        "lib/isotope-layout/isotope.pkgd.min.js"
                       ).then(() => {
-                        this.$loadScript("assets/vendor/aos/aos.js").then(
+                        this.$loadScript("lib/aos/aos.js").then(
                           () => {
                             this.$loadScript(
-                              "assets/vendor/venobox/venobox.min.js"
+                              "lib/venobox/venobox.min.js"
                             ).then(() => {
                               this.$loadScript("js/main.js").then(() => {});
                             });
