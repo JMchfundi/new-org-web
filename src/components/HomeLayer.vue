@@ -214,10 +214,15 @@
     <!-- About End -->
 
           <!-- ======= Portfolio Section ======= -->
-          <section id="portfolio" class="portfolio">
-        <div class="container" data-aos="fade-up">
-
-          <div class="section-title">
+    
+    <div id="portfolio" class="container-fluid service pb-5 portfolio">
+      <div class="container pb-5">
+        <div
+          class="text-center mx-auto pb-5 wow fadeInUp"
+          data-wow-delay="0.2s"
+          style="max-width: 800px"
+        >
+        <div class="section-title">
             <h4 class="text-primary">Portfolio</h4>
             <p>
               At CAPDO, we're more than just an organization; we're a force for change, a hub of creativity, and a source
@@ -226,8 +231,8 @@
               made along the way.
             </p>
           </div>
-
-          <ul id="portfolio-flters" class="d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
+        </div>
+        <ul id="portfolio-flters" class="d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
             <li data-filter="*" class="filter-active">All</li>
             <li data-filter=".filter-app">Projects</li>
             <li data-filter=".filter-card">Events</li>
@@ -336,13 +341,14 @@
             </div>
 
           </div>
-
-        </div>
-      </section><!-- End Portfolio Section -->
+      </div>
+    </div>
+      
+      <!-- End Portfolio Section -->
 
 
     <!-- Services Start -->
-    <div class="container-fluid service pb-5">
+    <!-- <div class="container-fluid service pb-5">
       <div class="container pb-5">
         <div
           class="text-center mx-auto pb-5 wow fadeInUp"
@@ -501,11 +507,11 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- Services End -->
 
     <!-- Features Start -->
-    <div class="container-fluid feature pb-5">
+    <!-- <div class="container-fluid feature pb-5">
       <div class="container pb-5">
         <div
           class="text-center mx-auto pb-5 wow fadeInUp"
@@ -598,11 +604,11 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- Features End -->
 
     <!-- Offer Start -->
-    <div class="container-fluid offer-section pb-5">
+    <!-- <div class="container-fluid offer-section pb-5">
       <div class="container pb-5">
         <div
           class="text-center mx-auto pb-5 wow fadeInUp"
@@ -769,11 +775,11 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- Offer End -->
 
     <!-- Blog Start -->
-    <div class="container-fluid blog pb-5">
+    <!-- <div class="container-fluid blog pb-5">
       <div class="container pb-5">
         <div
           class="text-center mx-auto pb-5 wow fadeInUp"
@@ -919,11 +925,11 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- Blog End -->
 
     <!-- FAQs Start -->
-    <div class="container-fluid faq-section pb-5">
+    <!-- <div class="container-fluid faq-section pb-5">
       <div class="container pb-5 overflow-hidden">
         <div
           class="text-center mx-auto pb-5 wow fadeInUp"
@@ -1118,7 +1124,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- FAQs End -->
 
     <!-- Team Start -->
@@ -1129,8 +1135,8 @@
           data-wow-delay="0.2s"
           style="max-width: 800px"
         >
-          <h4 class="text-primary">Our Team</h4>
-          <h1 class="display-5 mb-4">Meet Our Advisers</h1>
+          <h4 class="text-primary">FMF Team</h4>
+          <h1 class="display-5 mb-4">Meet Our Team</h1>
           <p class="mb-0">
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur
             adipisci facilis cupiditate recusandae aperiam temporibus corporis
@@ -1145,11 +1151,11 @@
           >
             <div class="team-item">
               <div class="team-img">
-                <img src="img/team-1.jpg" class="img-fluid" alt="" />
+                <img src="img/team.jpg" class="img-fluid" alt="" />
               </div>
               <div class="team-title">
-                <h4 class="mb-0">David James</h4>
-                <p class="mb-0">Profession</p>
+                <h4 class="mb-0 text-capitalize">Member Name</h4>
+                <p class="mb-0 text-uppercase text-primary">Profession</p>
               </div>
               <div class="team-icon">
                 <a
@@ -1177,15 +1183,15 @@
           </div>
           <div
             class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp"
-            data-wow-delay="0.4s"
+            data-wow-delay="0.2s"
           >
             <div class="team-item">
               <div class="team-img">
-                <img src="img/team-2.jpg" class="img-fluid" alt="" />
+                <img src="img/team.jpg" class="img-fluid" alt="" />
               </div>
               <div class="team-title">
-                <h4 class="mb-0">David James</h4>
-                <p class="mb-0">Profession</p>
+                <h4 class="mb-0 text-capitalize">Member Name</h4>
+                <p class="mb-0 text-uppercase text-primary">Profession</p>
               </div>
               <div class="team-icon">
                 <a
@@ -1213,15 +1219,15 @@
           </div>
           <div
             class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp"
-            data-wow-delay="0.6s"
+            data-wow-delay="0.2s"
           >
             <div class="team-item">
               <div class="team-img">
-                <img src="img/team-3.jpg" class="img-fluid" alt="" />
+                <img src="img/team.jpg" class="img-fluid" alt="" />
               </div>
               <div class="team-title">
-                <h4 class="mb-0">David James</h4>
-                <p class="mb-0">Profession</p>
+                <h4 class="mb-0 text-capitalize">Member Name</h4>
+                <p class="mb-0 text-uppercase text-primary">Profession</p>
               </div>
               <div class="team-icon">
                 <a
@@ -1249,15 +1255,15 @@
           </div>
           <div
             class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp"
-            data-wow-delay="0.8s"
+            data-wow-delay="0.2s"
           >
             <div class="team-item">
               <div class="team-img">
-                <img src="img/team-4.jpg" class="img-fluid" alt="" />
+                <img src="img/team.jpg" class="img-fluid" alt="" />
               </div>
               <div class="team-title">
-                <h4 class="mb-0">David James</h4>
-                <p class="mb-0">Profession</p>
+                <h4 class="mb-0 text-capitalize">Member Name</h4>
+                <p class="mb-0 text-uppercase text-primary">Profession</p>
               </div>
               <div class="team-icon">
                 <a
@@ -1289,7 +1295,7 @@
     <!-- Team End -->
 
     <!-- Testimonial Start -->
-    <div class="container-fluid testimonial pb-5">
+    <!-- <div class="container-fluid testimonial pb-5">
       <div class="container pb-5">
         <div
           class="text-center mx-auto pb-5 wow fadeInUp"
@@ -1435,7 +1441,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- Testimonial End -->
   </body>
 </template>
