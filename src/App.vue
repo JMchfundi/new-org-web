@@ -24,7 +24,19 @@ export default {
                 this.$loadScript("lib/lightbox/js/lightbox.min.js").then(() => {
                   this.$loadScript("lib/owlcarousel/owl.carousel.min.js").then(
                     () => {
-                      this.$loadScript("js/main.js").then(() => { });
+                      this.$loadScript(
+                        "assets/vendor/isotope-layout/isotope.pkgd.min.js"
+                      ).then(() => {
+                        this.$loadScript("assets/vendor/aos/aos.js").then(
+                          () => {
+                            this.$loadScript(
+                              "assets/vendor/venobox/venobox.min.js"
+                            ).then(() => {
+                              this.$loadScript("js/main.js").then(() => {});
+                            });
+                          }
+                        );
+                      });
                     }
                   );
                 });
