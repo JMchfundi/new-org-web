@@ -658,9 +658,7 @@
     background: 0;
 }
 
-.team .team-item .team-img img {
-    width: 100px;
-    height: 300px;
+.team .team-item .team-img img{
     border-radius: 100%;
     transition: 0.5s;
 }
@@ -932,7 +930,7 @@
   }
   
   .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-    background: #4eba2d;
+    background: #1b522d;
     color: #fff;
   }
   

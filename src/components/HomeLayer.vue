@@ -198,10 +198,10 @@
                             <img src="img/about-2.png" class="img-fluid rounded w-100" alt="">
                             
                             <div class="" style="position: absolute; top: -15px; right: -15px;">
-                                <img src="img/about-3.png" class="img-fluid" style="width: 150px; height: 150px; opacity: 0.7;" alt="">
+                                <img src="img/about-3.png" class="img-fluid " style="width: 150px; height: 150px; opacity: 0.7;" alt="">
                             </div>
                             <div class="" style="position: absolute; top: -20px; left: 10px; transform: rotate(90deg);">
-                                <img src="img/about-4.png" class="img-fluid" style="width: 100px; height: 150px; opacity: 0.9;" alt="">
+                                <img src="img/about-4.png" class="img-fluid " style="width: 100px; height: 150px; opacity: 0.9;" alt="">
                             </div>
                             <div class="rounded-bottom">
                                 <img src="img/about-5.jpg" class="img-fluid rounded-bottom w-100" alt="">
@@ -225,10 +225,7 @@
         <div class="section-title">
             <h4 class="text-primary">Portfolio</h4>
             <p>
-              At CAPDO, we're more than just an organization; we're a force for change, a hub of creativity, and a source
-              of innovation. Our mission is to be the best NGO in Kenya that translates the aspirations and potential of
-              the people into peaceful, positive and productive life. Our portfolio is a testament to the impact we've
-              made along the way.
+              FMF is more than an organization; we're a forcused on creating change, giving room for sustainability to youth & women of Kwale Community.
             </p>
           </div>
         </div>
@@ -242,10 +239,10 @@
           <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-              <div class="portfolio-img"><img src="img/portfolio/portfolio-1.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-img"><img src="img/portfolio/portfolio-1.jpg" class="img-fluid " alt=""></div>
               <div class="portfolio-info">
-                <h4>Project 1</h4>
-                <p>Project</p>
+                <h4></h4>
+                <p></p>
                 <a href="img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox preview-link"
                   title="App 1"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
@@ -253,10 +250,10 @@
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-              <div class="portfolio-img"><img src="img/portfolio/portfolio-2.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-img"><img src="img/portfolio/portfolio-2.jpg" class="img-fluid " alt=""></div>
               <div class="portfolio-info">
-                <h4>Events 1</h4>
-                <p>events</p>
+                <h4></h4>
+                <p></p>
                 <a href="img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox preview-link"
                   title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
@@ -264,10 +261,10 @@
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-              <div class="portfolio-img"><img src="img/portfolio/portfolio-3.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-img"><img src="img/portfolio/portfolio-3.jpg" class="img-fluid " alt=""></div>
               <div class="portfolio-info">
-                <h4>Project 2</h4>
-                <p>Project</p>
+                <h4></h4>
+                <p></p>
                 <a href="img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox preview-link"
                   title="App 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
@@ -275,10 +272,10 @@
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-              <div class="portfolio-img"><img src="img/portfolio/portfolio-4.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-img"><img src="img/portfolio/portfolio-4.jpg" class="img-fluid " alt=""></div>
               <div class="portfolio-info">
-                <h4>More...</h4>
-                <p>More</p>
+                <h4></h4>
+                <p></p>
                 <a href="img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox preview-link"
                   title="Card 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
@@ -286,10 +283,10 @@
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-              <div class="portfolio-img"><img src="img/portfolio/portfolio-5.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-img"><img src="img/portfolio/portfolio-5.jpg" class="img-fluid " alt=""></div>
               <div class="portfolio-info">
-                <h4>Event 2</h4>
-                <p>Event</p>
+                <h4></h4>
+                <p></p>
                 <a href="img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox preview-link"
                   title="Web 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
@@ -297,10 +294,10 @@
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-              <div class="portfolio-img"><img src="img/portfolio/portfolio-6.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-img"><img src="img/portfolio/portfolio-6.jpg" class="img-fluid " alt=""></div>
               <div class="portfolio-info">
-                <h4>Project 3</h4>
-                <p>Project</p>
+                <h4></h4>
+                <p></p>
                 <a href="img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox preview-link"
                   title="App 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
@@ -308,10 +305,10 @@
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-              <div class="portfolio-img"><img src="img/portfolio/portfolio-7.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-img"><img src="img/portfolio/portfolio-7.jpg" class="img-fluid " alt=""></div>
               <div class="portfolio-info">
-                <h4>Project 4</h4>
-                <p>Project</p>
+                <h4></h4>
+                <p></p>
                 <a href="img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox preview-link"
                   title="Card 1"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
@@ -319,10 +316,10 @@
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-              <div class="portfolio-img"><img src="img/portfolio/portfolio-8.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-img"><img src="img/portfolio/portfolio-8.jpg" class="img-fluid " alt=""></div>
               <div class="portfolio-info">
-                <h4>Project 5</h4>
-                <p>Project</p>
+                <h4></h4>
+                <p></p>
                 <a href="img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox preview-link"
                   title="Card 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
@@ -330,10 +327,10 @@
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-              <div class="portfolio-img"><img src="img/portfolio/portfolio-9.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-img"><img src="img/portfolio/portfolio-9.jpg" class="img-fluid " alt=""></div>
               <div class="portfolio-info">
-                <h4>Event 3</h4>
-                <p>Event</p>
+                <h4></h4>
+                <p></p>
                 <a href="img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox preview-link"
                   title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
@@ -1138,10 +1135,8 @@
           <h4 class="text-primary">FMF Team</h4>
           <h1 class="display-5 mb-4">Meet Our Team</h1>
           <p class="mb-0">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur
-            adipisci facilis cupiditate recusandae aperiam temporibus corporis
-            itaque quis facere, numquam, ad culpa deserunt sint dolorem autem
-            obcaecati, ipsam mollitia hic.
+At Masito's Foundation, We don't only have staff members but a team that are focused fully on making Kwale great again 
+by empowering youth & women through education, economic opportunities & advocacy  
           </p>
         </div>
         <div class="row g-4">
@@ -1151,7 +1146,7 @@
           >
             <div class="team-item">
               <div class="team-img">
-                <img src="img/team.jpg" class="img-fluid" alt="" />
+                <img src="img/team.jpg" class="img-fluid " alt="" />
               </div>
               <div class="team-title">
                 <h4 class="mb-0 text-capitalize">Member Name</h4>
@@ -1187,7 +1182,7 @@
           >
             <div class="team-item">
               <div class="team-img">
-                <img src="img/team.jpg" class="img-fluid" alt="" />
+                <img src="img/team-6.jpg" class="img-fluid fmfteamimg" alt="" />
               </div>
               <div class="team-title">
                 <h4 class="mb-0 text-capitalize">Member Name</h4>
@@ -1223,7 +1218,7 @@
           >
             <div class="team-item">
               <div class="team-img">
-                <img src="img/team.jpg" class="img-fluid" alt="" />
+                <img src="img/team.jpg" class="img-fluid " alt="" />
               </div>
               <div class="team-title">
                 <h4 class="mb-0 text-capitalize">Member Name</h4>
@@ -1259,7 +1254,7 @@
           >
             <div class="team-item">
               <div class="team-img">
-                <img src="img/team.jpg" class="img-fluid" alt="" />
+                <img src="img/team.jpg" class="img-fluid " alt="" />
               </div>
               <div class="team-title">
                 <h4 class="mb-0 text-capitalize">Member Name</h4>
@@ -1320,7 +1315,7 @@
               <i class="fas fa-quote-left fa-2x"></i>
             </div>
             <div class="testimonial-img">
-              <img src="img/testimonial-1.jpg" class="img-fluid" alt="Image" />
+              <img src="img/testimonial-1.jpg" class="img-fluid " alt="Image" />
             </div>
             <div class="testimonial-text">
               <p class="mb-0">
@@ -1351,7 +1346,7 @@
               <i class="fas fa-quote-left fa-2x"></i>
             </div>
             <div class="testimonial-img">
-              <img src="img/testimonial-2.jpg" class="img-fluid" alt="Image" />
+              <img src="img/testimonial-2.jpg" class="img-fluid " alt="Image" />
             </div>
             <div class="testimonial-text">
               <p class="mb-0">
@@ -1382,7 +1377,7 @@
               <i class="fas fa-quote-left fa-2x"></i>
             </div>
             <div class="testimonial-img">
-              <img src="img/testimonial-3.jpg" class="img-fluid" alt="Image" />
+              <img src="img/testimonial-3.jpg" class="img-fluid " alt="Image" />
             </div>
             <div class="testimonial-text">
               <p class="mb-0">
@@ -1413,7 +1408,7 @@
               <i class="fas fa-quote-left fa-2x"></i>
             </div>
             <div class="testimonial-img">
-              <img src="img/testimonial-2.jpg" class="img-fluid" alt="Image" />
+              <img src="img/testimonial-2.jpg" class="img-fluid " alt="Image" />
             </div>
             <div class="testimonial-text">
               <p class="mb-0">
