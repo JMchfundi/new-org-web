@@ -658,7 +658,7 @@
     background: 0;
 }
 
-.team .team-item .team-img img{
+.team .team-item .team-img img {
     border-radius: 100%;
     transition: 0.5s;
 }
@@ -997,4 +997,10 @@
   
   .portfolio .portfolio-item:hover .portfolio-info {
     opacity: 1;
+  }
+
+  .kyafimg {
+    width: 195px;
+    height: 195px;
+    background-color: #444444;
   }
