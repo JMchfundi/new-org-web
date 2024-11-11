@@ -359,62 +359,31 @@ by empowering youth & women through education, economic opportunities & advocacy
         </div>
         <div class="row g-4">
           <div
-            class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp"
+            class="col-md-6 col-lg-6 col-xl-6 wow fadeInUp"
             data-wow-delay="0.2s"
           >
           <div class="card text-center border-0 mb-3">
 					<div class="card-body p-3">
 						<div class="mb-4 mx-lg-3 mx-xxl-5"><img class="img-fluid rounded-circle kyafimg" 
-                            src="img/team.jpg"></div>
-						<h5 class="fw-bold text-capitalize">FMF - Member Name</h5>
+                            src="img/team-1.jpg"></div>
+						<h5 class="fw-bold text-capitalize">Fatuma Masito</h5>
 						<div class="text-muted text-capitalize">
-							FMF - Position
+							Founder & Chairlady
 						</div>
 					</div>
 				</div>
           </div>
           <div
-            class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp"
+            class="col-md-6 col-lg-6 col-xl-6 wow fadeInUp"
             data-wow-delay="0.2s"
           >
           <div class="card text-center border-0 mb-3">
 					<div class="card-body p-3">
 						<div class="mb-4 mx-lg-3 mx-xxl-5"><img class="img-fluid rounded-circle kyafimg" 
-                            src="img/team.jpg"></div>
-						<h5 class="fw-bold text-capitalize">FMF - Member Name</h5>
+                            src="img/team-2.jpg"></div>
+						<h5 class="fw-bold text-capitalize">Amani Kea</h5>
 						<div class="text-muted text-capitalize">
-							FMF - Position
-						</div>
-					</div>
-				</div>
-          </div>
-          <div
-            class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp"
-            data-wow-delay="0.2s"
-          >
-          <div class="card text-center border-0 mb-3">
-					<div class="card-body p-3">
-						<div class="mb-4 mx-lg-3 mx-xxl-5"><img class="img-fluid rounded-circle kyafimg" 
-                            src="img/team.jpg"></div>
-						<h5 class="fw-bold text-capitalize">FMF - Member Name</h5>
-						<div class="text-muted text-capitalize">
-							FMF - Position
-						</div>
-					</div>
-				</div>
-
-          </div>
-          <div
-            class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp"
-            data-wow-delay="0.2s"
-          >
-          <div class="card text-center border-0 mb-3">
-					<div class="card-body p-3">
-						<div class="mb-4 mx-lg-3 mx-xxl-5"><img class="img-fluid rounded-circle kyafimg" 
-                            src="img/team.jpg"></div>
-						<h5 class="fw-bold text-capitalize">FMF - Member Name</h5>
-						<div class="text-muted text-capitalize">
-							FMF - Position
+							Manager
 						</div>
 					</div>
 				</div>
