@@ -1,15 +1,15 @@
 <template>
   <div>
-    <HeaderLayer></HeaderLayer>
+    <!-- <HeaderLayer></HeaderLayer> -->
     <HomeLayer></HomeLayer>
-    <FooterLayer></FooterLayer>
+    <!-- <FooterLayer></FooterLayer> -->
   </div>
 </template>
 
 <script>
 import HomeLayer from '@/components/HomeLayer.vue';
-import HeaderLayer from '@/components/HeaderLayer.vue';
-import FooterLayer from "@/components/FooterLayer.vue";
+// import HeaderLayer from '@/components/HeaderLayer.vue';
+// import FooterLayer from "@/components/FooterLayer.vue";
 
 
 // @ is an alias to /src
@@ -17,9 +17,9 @@ import FooterLayer from "@/components/FooterLayer.vue";
 export default {
   name: 'HomeView',
   components: {
-    HeaderLayer,
+    // HeaderLayer,
     HomeLayer,
-    FooterLayer
+    // FooterLayer
 }
 }
 </script>
