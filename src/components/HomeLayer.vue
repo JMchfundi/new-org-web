@@ -199,7 +199,7 @@
                     <small class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Latest Events</small>
                     <h1 class="display-5 mb-5">Our Social & Professional Events Gallery</h1>
                 </div>
-                <div class="tab-class text-center">
+                <!-- <div class="tab-class text-center">
                     <ul class="nav nav-pills d-inline-flex justify-content-center mb-5 wow bounceInUp" data-wow-delay="0.1s">
                         <li class="nav-item p-2">
                             <a class="d-flex mx-2 py-2 border border-primary bg-light rounded-pill active" data-bs-toggle="pill" href="#tab-1">
@@ -413,7 +413,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
         <!-- Events End -->
@@ -1140,7 +1140,7 @@
 
 
         <!-- Blog Start -->
-        <div class="container-fluid blog py-6">
+        <div class="container-fluid blog py-0">
             <div class="container">
                 <div class="text-center wow bounceInUp" data-wow-delay="0.1s">
                     <small class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Our Blog</small>
@@ -1150,7 +1150,7 @@
                     <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s">
                         <div class="blog-item">
                             <div class="overflow-hidden rounded">
-                                <img src="img/blog-1.jpg" class="img-fluid w-100" alt="">
+                                <img src="img/blog-1.jpg" class="img-fluid-feed w-100" alt="">
                             </div>
                             <div class="blog-content mx-4 d-flex rounded bg-light">
                                 <div class="text-dark bg-primary rounded-start">
@@ -1166,7 +1166,7 @@
                     <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.3s">
                         <div class="blog-item">
                             <div class="overflow-hidden rounded">
-                                <img src="img/blog-2.jpg" class="img-fluid w-100" alt="">
+                                <img src="img/blog-2.jpg" class="img-fluid-feed w-100" alt="">
                             </div>
                             <div class="blog-content mx-4 d-flex rounded bg-light">
                                 <div class="text-dark bg-primary rounded-start">
@@ -1182,7 +1182,7 @@
                     <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.5s">
                         <div class="blog-item">
                             <div class="overflow-hidden rounded">
-                                <img src="img/blog-3.jpg" class="img-fluid w-100" alt="">
+                                <img src="img/blog-3.jpg" class="img-fluid-feed w-100" alt="">
                             </div>
                             <div class="blog-content mx-4 d-flex rounded bg-light">
                                 <div class="text-dark bg-primary rounded-start">
@@ -1200,7 +1200,6 @@
         </div>
         <!-- Blog End -->
 
-
         <!-- Footer Start -->
         <div class="container-fluid footer py-6 my-6 mb-0 bg-light wow bounceInUp" data-wow-delay="0.1s">
             <div class="container">
@@ -1208,7 +1207,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="footer-item">
                             <h1 class="text-primary">Jimbo<span class="text-dark">BMU</span></h1>
-                            <p class="lh-lg mb-4">There cursus massa at urnaaculis estieSed aliquamellus vitae ultrs condmentum leo massamollis its estiegittis miristum.</p>
+                            <p class="lh-lg mb-4 text-capitalize">a community-based organization that co-manages fisheries resources with the government, promoting sustainable resource management and improving livelihoods</p>
                             <div class="footer-icon d-flex">
                                 <a class="btn btn-primary btn-sm-square me-2 rounded-circle" href=""><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-primary btn-sm-square me-2 rounded-circle" href=""><i class="fab fa-twitter"></i></a>
@@ -1221,10 +1220,10 @@
                         <div class="footer-item">
                             <h4 class="mb-4">Special Facilities</h4>
                             <div class="d-flex flex-column align-items-start">
-                                <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>Cheese Burger</a>
-                                <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>Sandwich</a>
-                                <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>Panner Burger</a>
-                                <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>Special Sweets</a>
+                                <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>a</a>
+                                <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>b</a>
+                                <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>c</a>
+                                <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>d</a>
                             </div>
                         </div>
                     </div>
@@ -1232,10 +1231,10 @@
                         <div class="footer-item">
                             <h4 class="mb-4">Contact Us</h4>
                             <div class="d-flex flex-column align-items-start">
-                                <p><i class="fa fa-map-marker-alt text-primary me-2"></i> 123 Street, New York, USA</p>
-                                <p><i class="fa fa-phone-alt text-primary me-2"></i> (+012) 3456 7890 123</p>
-                                <p><i class="fas fa-envelope text-primary me-2"></i> info@example.com</p>
-                                <p><i class="fa fa-clock text-primary me-2"></i> 26/7 Hours BMUice</p>
+                                <p><i class="fa fa-map-marker-alt text-primary me-2"></i> Vanga, Kwale - Kenya</p>
+                                <p><i class="fa fa-phone-alt text-primary me-2"></i> (+254) 0 723 298179</p>
+                                <p><i class="fas fa-envelope text-primary me-2"></i> info@jimbobmu.or.ke</p>
+                                <!-- <p><i class="fa fa-clock text-primary me-2"></i> 24/7 Hours BMUice</p> -->
                             </div>
                         </div>
                     </div>
@@ -1243,24 +1242,6 @@
                         <div class="footer-item">
                             <h4 class="mb-4">Social Gallery</h4>
                             <div class="row g-2">
-                                <div class="col-4">
-                                     <img src="img/menu-01.jpg" class="img-fluid rounded-circle border border-primary p-2" alt="">
-                                </div>
-                                <div class="col-4">
-                                     <img src="img/menu-02.jpg" class="img-fluid rounded-circle border border-primary p-2" alt="">
-                                </div>
-                                <div class="col-4">
-                                     <img src="img/menu-03.jpg" class="img-fluid rounded-circle border border-primary p-2" alt="">
-                                </div>
-                                <div class="col-4">
-                                     <img src="img/menu-04.jpg" class="img-fluid rounded-circle border border-primary p-2" alt="">
-                                </div>
-                                <div class="col-4">
-                                     <img src="img/menu-05.jpg" class="img-fluid rounded-circle border border-primary p-2" alt="">
-                                </div>
-                                <div class="col-4">
-                                     <img src="img/menu-06.jpg" class="img-fluid rounded-circle border border-primary p-2" alt="">
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -1281,7 +1262,7 @@
                         <!--/*** This template is free as long as you keep the below author’s credit link/attribution link/backlink. ***/-->
                         <!--/*** If you'd like to use the template without the below author’s credit link/attribution link/backlink, ***/-->
                         <!--/*** you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". ***/-->
-                        Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a>
+                        Designed & Managed By <a class="border-bottom" href="https://www.tucode.co.ke">TuCode</a>
                     </div>
                 </div>
             </div>
