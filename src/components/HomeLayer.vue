@@ -1,4 +1,5 @@
 <template>
+
     <body>
         <!-- Navbar start -->
         <div class="container-fluid nav-bar" style="">
@@ -7,7 +8,8 @@
                     <a href="index.html" class="navbar-brand">
                         <h1 class="text-primary fw-bold mb-0">Jimbo<span class="text-dark">BMU</span> </h1>
                     </a>
-                    <button class="navbar-toggler py-2 px-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                    <button class="navbar-toggler py-2 px-3" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#navbarCollapse">
                         <span class="fa fa-bars text-primary"></span>
                     </button>
                     <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -41,7 +43,8 @@
                     </div>
                     <div class="modal-body d-flex align-items-center">
                         <div class="input-group w-75 mx-auto d-flex">
-                            <input type="search" class="form-control bg-transparent p-3" placeholder="keywords" aria-describedby="search-icon-1">
+                            <input type="search" class="form-control bg-transparent p-3" placeholder="keywords"
+                                aria-describedby="search-icon-1">
                             <span id="search-icon-1" class="input-group-text p-3"><i class="fa fa-search"></i></span>
                         </div>
                     </div>
@@ -52,17 +55,23 @@
 
 
         <!-- Hero Start -->
-        <div class="container-fluid bg-light py-6 my-6 mt-0" 
-        style="background-image: url(img/hero.png); 
+        <div class="container-fluid bg-light py-6 my-6 mt-0" style="background-image: url(img/hero.png); 
                 background-repeat: no-repeat;   
                 background-size: 100% 100%;">
             <div class="container">
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-7 col-md-12">
-                        <small class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-2 mb-0 animated bounceInDown">Welcome to JimboBMU</small>
-                        <h1 class="display-1 mb-4 animated bounceInDown text-white">Book <span class="text-primary">Jimbo</span>BMU For Your Dream Tour</h1>
-                        <a href="" class="btn btn-primary border-0 rounded-pill py-3 px-4 px-md-5 me-4 animated bounceInLeft">Book Now</a>
-                        <a href="" class="btn btn-primary border-0 rounded-pill py-3 px-4 px-md-5 animated bounceInLeft">Know More</a>
+                        <small
+                            class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-2 mb-0 animated bounceInDown">Welcome
+                            to JimboBMU</small>
+                        <h1 class="display-1 mb-4 animated bounceInDown text-white">Book <span
+                                class="text-primary">Jimbo</span>BMU For Your Dream Tour</h1>
+                        <a href=""
+                            class="btn btn-primary border-0 rounded-pill py-3 px-4 px-md-5 me-4 animated bounceInLeft">Book
+                            Now</a>
+                        <a href=""
+                            class="btn btn-primary border-0 rounded-pill py-3 px-4 px-md-5 animated bounceInLeft">Know
+                            More</a>
                     </div>
                     <div class="col-lg-5 col-md-12">
                         <img src="img/hero2.png" class="img-fluid rounded animated zoomIn" alt="">
@@ -81,24 +90,26 @@
                         <img src="img/about.jpg" class="img-fluid rounded" alt="">
                     </div>
                     <div class="col-lg-7 wow bounceInUp" data-wow-delay="0.3s">
-                        <small class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">About Us</small>
-                        <h1 class="display-5 mb-4">Trusted By GEF - global environmental facility </h1>
-                        <p class="mb-4 text-capitalize">a community-based organization that co-manages fisheries resources with the government, promoting sustainable resource management and improving livelihoods</p>
-                        <div class="row g-4 text-dark mb-5">
+                        <small
+                            class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">About
+                            Us</small>
+                        <h1 class="display-5 mb-4 text-capitalize">JimboBMU - Preserve Our Seagrass, Protect Our Ocean</h1>
+                        <p class="mb-4 text-capitalize">a community-based organization that co-manages fisheries
+                            resources with the government, promoting sustainable resource management and improving
+                            livelihoods</p>
+                        <div class="row g-4 text-dark mb-5 text-capitalize">
                             <div class="col-sm-6">
-                                <i class="fas fa-share text-primary me-2"></i>Activities Will Go Here
+                                <i class="fas fa-share text-primary me-2"></i>Seagrass Conservation
                             </div>
                             <div class="col-sm-6">
-                                <i class="fas fa-share text-primary me-2"></i>Activities Will Go Here
+                                <i class="fas fa-share text-primary me-2"></i>Biodiversity Preservation
                             </div>
                             <div class="col-sm-6">
-                                <i class="fas fa-share text-primary me-2"></i>Activities Will Go Here
-                            </div>
-                            <div class="col-sm-6">
-                                <i class="fas fa-share text-primary me-2"></i>Activities Will Go Here
+                                <i class="fas fa-share text-primary me-2"></i>Monitoring
                             </div>
                         </div>
-                        <a href="" class="btn btn-primary py-3 px-5 rounded-pill">About Us<i class="fas fa-arrow-right ps-2"></i></a>
+                        <a href="" class="btn btn-primary py-3 px-5 rounded-pill">About Us<i
+                                class="fas fa-arrow-right ps-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -170,17 +181,21 @@
         <div class="container-fluid service py-6">
             <div class="container">
                 <div class="text-center wow bounceInUp" data-wow-delay="0.1s">
-                    <small class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Our Impact</small>
+                    <small
+                        class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Our
+                        Impact</small>
                     <h1 class="display-5 mb-5">JimboBMU Impact To The Community</h1>
                 </div>
                 <div class="row g-4">
-                    <div class="col-lg-3 col-md-6 col-sm-12 wow bounceInUp" data-wow-delay="0.1s"  v-for="n in 8" :key="n">
+                    <div class="col-lg-3 col-md-6 col-sm-12 wow bounceInUp" data-wow-delay="0.1s" v-for="n in 8"
+                        :key="n">
                         <div class="bg-light rounded service-item">
                             <div class="service-content d-flex align-items-center justify-content-center p-4">
                                 <div class="service-content-icon text-center">
                                     <img src="img/jimbosuccess.png" class="img-fluid rounded animated zoomIn" alt="">
                                     <h4 class="mb-3">Service - Success {{ n }}</h4>
-                                    <p class="mb-4">Awaiting Documentation (Details) - JimboBMU Service Items Will Be Captured Here</p>
+                                    <p class="mb-4">Awaiting Documentation (Details) - JimboBMU Service Items Will Be
+                                        Captured Here</p>
                                     <a href="#" class="btn btn-primary px-4 py-2 rounded-pill">Read More</a>
                                 </div>
                             </div>
@@ -196,7 +211,9 @@
         <div class="container-fluid event py-6">
             <div class="container">
                 <div class="text-center wow bounceInUp" data-wow-delay="0.1s">
-                    <small class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Latest Events</small>
+                    <small
+                        class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Latest
+                        Events</small>
                     <h1 class="display-5 mb-5">Our Social & Professional Events Gallery</h1>
                 </div>
                 <!-- <div class="tab-class text-center">
@@ -1049,12 +1066,14 @@
         </div> -->
         <!-- Book Us End -->
 
-        
+
         <!-- Team Start -->
         <div class="container-fluid team py-6">
             <div class="container">
                 <div class="text-center wow bounceInUp" data-wow-delay="0.1s">
-                    <small class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Our Team</small>
+                    <small
+                        class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Our
+                        Team</small>
                     <h1 class="display-5 mb-5">The Pride Of JimboBMU</h1>
                 </div>
                 <div class="row g-4">
@@ -1066,10 +1085,14 @@
                                 <p class="text-white mb-0">TiTle Goes Here</p>
                             </div>
                             <div class="team-icon d-flex flex-column justify-content-center m-4">
-                                <a class="share btn btn-primary btn-md-square rounded-circle mb-2" href=""><i class="fas fa-share-alt"></i></a>
-                                <a class="share-link btn btn-primary btn-md-square rounded-circle mb-2" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="share-link btn btn-primary btn-md-square rounded-circle mb-2" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="share-link btn btn-primary btn-md-square rounded-circle mb-2" href=""><i class="fab fa-instagram"></i></a>
+                                <a class="share btn btn-primary btn-md-square rounded-circle mb-2" href=""><i
+                                        class="fas fa-share-alt"></i></a>
+                                <a class="share-link btn btn-primary btn-md-square rounded-circle mb-2" href=""><i
+                                        class="fab fa-facebook-f"></i></a>
+                                <a class="share-link btn btn-primary btn-md-square rounded-circle mb-2" href=""><i
+                                        class="fab fa-twitter"></i></a>
+                                <a class="share-link btn btn-primary btn-md-square rounded-circle mb-2" href=""><i
+                                        class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1083,10 +1106,12 @@
         <div class="container-fluid py-6">
             <div class="container">
                 <div class="text-center wow bounceInUp" data-wow-delay="0.1s">
-                    <small class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Testimonial</small>
+                    <small
+                        class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Testimonial</small>
                     <h1 class="display-5 mb-5">What Our Customers says!</h1>
                 </div>
-                <div class="owl-carousel owl-theme testimonial-carousel testimonial-carousel-1 mb-4 wow bounceInUp" data-wow-delay="0.1s">
+                <div class="owl-carousel owl-theme testimonial-carousel testimonial-carousel-1 mb-4 wow bounceInUp"
+                    data-wow-delay="0.1s">
                     <div class="testimonial-item rounded bg-light" v-for="n in 4" :key="n">
                         <div class="d-flex mb-3">
                             <img src="img/team-1.jpg" class="img-fluid rounded-circle flex-shrink-0" alt="">
@@ -1110,7 +1135,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="owl-carousel testimonial-carousel testimonial-carousel-2 wow bounceInUp" data-wow-delay="0.3s">
+                <div class="owl-carousel testimonial-carousel testimonial-carousel-2 wow bounceInUp"
+                    data-wow-delay="0.3s">
                     <div class="testimonial-item rounded bg-light" v-for="n in 4" :key="n">
                         <div class="d-flex mb-3">
                             <img src="img/team-1.jpg" class="img-fluid rounded-circle flex-shrink-0" alt="">
@@ -1143,7 +1169,9 @@
         <div class="container-fluid blog py-0">
             <div class="container">
                 <div class="text-center wow bounceInUp" data-wow-delay="0.1s">
-                    <small class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Our Blog</small>
+                    <small
+                        class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Our
+                        Blog</small>
                     <h1 class="display-5 mb-5">Our Social News Feeds</h1>
                 </div>
                 <div class="row gx-4 justify-content-center">
@@ -1159,7 +1187,8 @@
                                         <p class="fw-bold mb-0">Sep</p>
                                     </div>
                                 </div>
-                                <a href="#" class="h5 lh-base my-auto h-100 p-3">How to get more test in your food from</a>
+                                <a href="#" class="h5 lh-base my-auto h-100 p-3">How to get more test in your food
+                                    from</a>
                             </div>
                         </div>
                     </div>
@@ -1175,7 +1204,8 @@
                                         <p class="fw-bold mb-0">Sep</p>
                                     </div>
                                 </div>
-                                <a href="#" class="h5 lh-base my-auto h-100 p-3">How to get more test in your food from</a>
+                                <a href="#" class="h5 lh-base my-auto h-100 p-3">How to get more test in your food
+                                    from</a>
                             </div>
                         </div>
                     </div>
@@ -1191,7 +1221,8 @@
                                         <p class="fw-bold mb-0">Sep</p>
                                     </div>
                                 </div>
-                                <a href="#" class="h5 lh-base my-auto h-100 p-3">How to get more test in your food from</a>
+                                <a href="#" class="h5 lh-base my-auto h-100 p-3">How to get more test in your food
+                                    from</a>
                             </div>
                         </div>
                     </div>
@@ -1207,12 +1238,18 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="footer-item">
                             <h1 class="text-primary">Jimbo<span class="text-dark">BMU</span></h1>
-                            <p class="lh-lg mb-4 text-capitalize">a community-based organization that co-manages fisheries resources with the government, promoting sustainable resource management and improving livelihoods</p>
+                            <p class="lh-lg mb-4 text-capitalize">a community-based organization that co-manages
+                                fisheries resources with the government, promoting sustainable resource management and
+                                improving livelihoods</p>
                             <div class="footer-icon d-flex">
-                                <a class="btn btn-primary btn-sm-square me-2 rounded-circle" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-primary btn-sm-square me-2 rounded-circle" href=""><i class="fab fa-twitter"></i></a>
-                                <a href="#" class="btn btn-primary btn-sm-square me-2 rounded-circle"><i class="fab fa-instagram"></i></a>
-                                <a href="#" class="btn btn-primary btn-sm-square rounded-circle"><i class="fab fa-linkedin-in"></i></a>
+                                <a class="btn btn-primary btn-sm-square me-2 rounded-circle" href=""><i
+                                        class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-primary btn-sm-square me-2 rounded-circle" href=""><i
+                                        class="fab fa-twitter"></i></a>
+                                <a href="#" class="btn btn-primary btn-sm-square me-2 rounded-circle"><i
+                                        class="fab fa-instagram"></i></a>
+                                <a href="#" class="btn btn-primary btn-sm-square rounded-circle"><i
+                                        class="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1256,7 +1293,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        <span class="text-light"><a href="#"><i class="fas fa-copyright text-light me-2"></i>Your Site Name</a>, All right reBMUed.</span>
+                        <span class="text-light"><a href="#"><i class="fas fa-copyright text-light me-2"></i>Your Site
+                                Name</a>, All right reBMUed.</span>
                     </div>
                     <div class="col-md-6 my-auto text-center text-md-end text-white">
                         <!--/*** This template is free as long as you keep the below author’s credit link/attribution link/backlink. ***/-->

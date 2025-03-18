@@ -26,7 +26,7 @@ export default {
                     () => {
                       this.$loadScript(
                         "js/main.js"
-                      ).then(() => {});
+                      ).then(() => { });
                     }
                   );
                 });
