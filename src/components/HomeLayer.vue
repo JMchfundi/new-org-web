@@ -93,7 +93,8 @@
                         <small
                             class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">About
                             Us</small>
-                        <h1 class="display-5 mb-4 text-capitalize">JimboBMU - Preserve Our Seagrass, Protect Our Ocean</h1>
+                        <h1 class="display-5 mb-4 text-capitalize">JimboBMU - Preserve Our Seagrass, Protect Our Ocean
+                        </h1>
                         <p class="mb-4 text-capitalize">a community-based organization that co-manages fisheries
                             resources with the government, promoting sustainable resource management and improving
                             livelihoods</p>
@@ -176,9 +177,68 @@
         </div> -->
         <!-- Fact End -->
 
+        <!-- Blog Start -->
+        <div class="container-fluid blog py-0">
+            <div class="container">
+                <div class="text-center wow bounceInUp" data-wow-delay="0.1s">
+                    <small
+                        class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Our
+                        Impact</small>
+                    <h1 class="display-5 mb-5">JimboBMU Impact To The Community</h1>
+                </div>
+                <div class="row gx-4 justify-content-center">
+                    <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s">
+                        <div class="blog-item">
+                            <div class="overflow-hidden rounded">
+                                <img src="img/blog-1.jpg" class="img-fluid-feed w-100" alt="">
+                            </div>
+                            <div class="blog-content mx-4 d-flex rounded bg-light">
+                                <div class="text-dark bg-primary rounded-start">
+                                    <div class="h-100 p-3 d-flex flex-column justify-content-center text-center">
+                                        <i class="fw-bold mb-0 fa fa-question"></i>
+                                    </div>
+                                </div>
+                                <a href="#" class="h5 lh-base my-auto h-100 p-3">Community Engagement</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.3s">
+                        <div class="blog-item">
+                            <div class="overflow-hidden rounded">
+                                <img src="img/blog-2.jpg" class="img-fluid-feed w-100" alt="">
+                            </div>
+                            <div class="blog-content mx-4 d-flex rounded bg-light">
+                                <div class="text-dark bg-primary rounded-start">
+                                    <div class="h-100 p-3 d-flex flex-column justify-content-center text-center">
+                                        <i class="fw-bold mb-0 fa fa-clone"></i>
+                                    </div>
+                                </div>
+                                <a href="#" class="h5 lh-base my-auto h-100 p-3">Eco - tourism Development</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.5s">
+                        <div class="blog-item">
+                            <div class="overflow-hidden rounded">
+                                <img src="img/blog-3.jpg" class="img-fluid-feed w-100" alt="">
+                            </div>
+                            <div class="blog-content mx-4 d-flex rounded bg-light">
+                                <div class="text-dark bg-primary rounded-start">
+                                    <div class="h-100 p-3 d-flex flex-column justify-content-center text-center">
+                                        <i class="fw-bold mb-0 fa fa-users"></i>
+                                    </div>
+                                </div>
+                                <a href="#" class="h5 lh-base my-auto h-100 p-3">Capacity Building</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Blog End -->
 
         <!-- BMUice Start -->
-        <div class="container-fluid service py-6">
+        <!-- <div class="container-fluid service py-6">
             <div class="container">
                 <div class="text-center wow bounceInUp" data-wow-delay="0.1s">
                     <small
@@ -187,23 +247,53 @@
                     <h1 class="display-5 mb-5">JimboBMU Impact To The Community</h1>
                 </div>
                 <div class="row g-4">
-                    <div class="col-lg-3 col-md-6 col-sm-12 wow bounceInUp" data-wow-delay="0.1s" v-for="n in 8"
-                        :key="n">
+                    <div class="col-lg-6 col-md-6 col-sm-12 wow bounceInUp" data-wow-delay="0.1s">
                         <div class="bg-light rounded service-item">
                             <div class="service-content d-flex align-items-center justify-content-center p-4">
                                 <div class="service-content-icon text-center">
                                     <img src="img/jimbosuccess.png" class="img-fluid rounded animated zoomIn" alt="">
-                                    <h4 class="mb-3">Service - Success {{ n }}</h4>
-                                    <p class="mb-4">Awaiting Documentation (Details) - JimboBMU Service Items Will Be
-                                        Captured Here</p>
-                                    <a href="#" class="btn btn-primary px-4 py-2 rounded-pill">Read More</a>
+                                    <h4 class="text-capitalize">Community Engagement</h4>
+                                    <p class="mb-4 text-capitalize">Understand their needs, aspirations and concerns related to livelihoods</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 wow bounceInUp" data-wow-delay="0.1s">
+                        <div class="bg-light rounded service-item">
+                            <div class="service-content d-flex align-items-center justify-content-center p-4">
+                                <div class="service-content-icon text-center">
+                                    <img src="img/jimbosuccess.png" class="img-fluid rounded animated zoomIn" alt="">
+                                    <h4 class="text-capitalize">Eco - tourism Development</h4>
+                                    <p class="mb-4 text-capitalize">Tours, Snorkeling and Educational Programs</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 wow bounceInUp" data-wow-delay="0.1s">
+                        <div class="bg-light rounded service-item">
+                            <div class="service-content d-flex align-items-center justify-content-center p-4">
+                                <div class="service-content-icon text-center">
+                                    <img src="img/jimbosuccess.png" class="img-fluid rounded animated zoomIn" alt="">
+                                    <h4 class="text-capitalize">Income Generation</h4>
+                                    <p class="mb-4 text-capitalize">Involving homestays, handicrafts or small-scale enterprises</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 wow bounceInUp" data-wow-delay="0.1s">
+                        <div class="bg-light rounded service-item">
+                            <div class="service-content d-flex align-items-center justify-content-center p-4">
+                                <div class="service-content-icon text-center">
+                                    <img src="img/jimbosuccess.png" class="img-fluid rounded animated zoomIn" alt="">
+                                    <h4 class="text-capitalize">Capacity Building</h4>
+                                    <p class="mb-4 text-capitalize">Provide training for community members with skills related to ecotourism, hospitality and Conservation can empower locals</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- BMUice End -->
 
 
@@ -1163,73 +1253,6 @@
             </div>
         </div>
         <!-- Testimonial End -->
-
-
-        <!-- Blog Start -->
-        <div class="container-fluid blog py-0">
-            <div class="container">
-                <div class="text-center wow bounceInUp" data-wow-delay="0.1s">
-                    <small
-                        class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Our
-                        Blog</small>
-                    <h1 class="display-5 mb-5">Our Social News Feeds</h1>
-                </div>
-                <div class="row gx-4 justify-content-center">
-                    <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s">
-                        <div class="blog-item">
-                            <div class="overflow-hidden rounded">
-                                <img src="img/blog-1.jpg" class="img-fluid-feed w-100" alt="">
-                            </div>
-                            <div class="blog-content mx-4 d-flex rounded bg-light">
-                                <div class="text-dark bg-primary rounded-start">
-                                    <div class="h-100 p-3 d-flex flex-column justify-content-center text-center">
-                                        <p class="fw-bold mb-0">16</p>
-                                        <p class="fw-bold mb-0">Sep</p>
-                                    </div>
-                                </div>
-                                <a href="#" class="h5 lh-base my-auto h-100 p-3">How to get more test in your food
-                                    from</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.3s">
-                        <div class="blog-item">
-                            <div class="overflow-hidden rounded">
-                                <img src="img/blog-2.jpg" class="img-fluid-feed w-100" alt="">
-                            </div>
-                            <div class="blog-content mx-4 d-flex rounded bg-light">
-                                <div class="text-dark bg-primary rounded-start">
-                                    <div class="h-100 p-3 d-flex flex-column justify-content-center text-center">
-                                        <p class="fw-bold mb-0">16</p>
-                                        <p class="fw-bold mb-0">Sep</p>
-                                    </div>
-                                </div>
-                                <a href="#" class="h5 lh-base my-auto h-100 p-3">How to get more test in your food
-                                    from</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.5s">
-                        <div class="blog-item">
-                            <div class="overflow-hidden rounded">
-                                <img src="img/blog-3.jpg" class="img-fluid-feed w-100" alt="">
-                            </div>
-                            <div class="blog-content mx-4 d-flex rounded bg-light">
-                                <div class="text-dark bg-primary rounded-start">
-                                    <div class="h-100 p-3 d-flex flex-column justify-content-center text-center">
-                                        <p class="fw-bold mb-0">16</p>
-                                        <p class="fw-bold mb-0">Sep</p>
-                                    </div>
-                                </div>
-                                <a href="#" class="h5 lh-base my-auto h-100 p-3">How to get more test in your food
-                                    from</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Blog End -->
 
         <!-- Footer Start -->
         <div class="container-fluid footer py-6 my-6 mb-0 bg-light wow bounceInUp" data-wow-delay="0.1s">
