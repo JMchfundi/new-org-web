@@ -1167,9 +1167,67 @@
                     <h1 class="display-5 mb-5">The Pride Of JimboBMU</h1>
                 </div>
                 <div class="row g-4">
-                    <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-delay="0.1s" v-for="n in 4" :key="n">
+                    <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-delay="0.1s">
                         <div class="team-item rounded">
-                            <img class="img-fluid rounded-top " src="img/team-1.jpg" alt="">
+                            <img class="img-fluid rounded-top " src="" alt="" style="height: 345px; width: 100%;">
+                            <div class="team-content text-center py-3 bg-dark rounded-bottom">
+                                <h4 class="text-primary">Mohamed Kai</h4>
+                                <p class="text-white mb-0">Manager</p>
+                            </div>
+                            <div class="team-icon d-flex flex-column justify-content-center m-4">
+                                <a class="share btn btn-primary btn-md-square rounded-circle mb-2" href=""><i
+                                        class="fas fa-share-alt"></i></a>
+                                <a class="share-link btn btn-primary btn-md-square rounded-circle mb-2" href=""><i
+                                        class="fab fa-facebook-f"></i></a>
+                                <a class="share-link btn btn-primary btn-md-square rounded-circle mb-2" href=""><i
+                                        class="fab fa-twitter"></i></a>
+                                <a class="share-link btn btn-primary btn-md-square rounded-circle mb-2" href=""><i
+                                        class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-delay="0.1s">
+                        <div class="team-item rounded">
+                            <img class="img-fluid rounded-top " src="" alt="" style="height: 345px; width: 100%;">
+                            <div class="team-content text-center py-3 bg-dark rounded-bottom">
+                                <h4 class="text-primary">Name Goes Here</h4>
+                                <p class="text-white mb-0">Program Officer</p>
+                            </div>
+                            <div class="team-icon d-flex flex-column justify-content-center m-4">
+                                <a class="share btn btn-primary btn-md-square rounded-circle mb-2" href=""><i
+                                        class="fas fa-share-alt"></i></a>
+                                <a class="share-link btn btn-primary btn-md-square rounded-circle mb-2" href=""><i
+                                        class="fab fa-facebook-f"></i></a>
+                                <a class="share-link btn btn-primary btn-md-square rounded-circle mb-2" href=""><i
+                                        class="fab fa-twitter"></i></a>
+                                <a class="share-link btn btn-primary btn-md-square rounded-circle mb-2" href=""><i
+                                        class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-delay="0.1s">
+                        <div class="team-item rounded">
+                            <img class="img-fluid rounded-top " src="" alt="" style="height: 345px; width: 100%;">
+                            <div class="team-content text-center py-3 bg-dark rounded-bottom">
+                                <h4 class="text-primary">Name Goes Here</h4>
+                                <p class="text-white mb-0">General Clerk</p>
+                            </div>
+                            <div class="team-icon d-flex flex-column justify-content-center m-4">
+                                <a class="share btn btn-primary btn-md-square rounded-circle mb-2" href=""><i
+                                        class="fas fa-share-alt"></i></a>
+                                <a class="share-link btn btn-primary btn-md-square rounded-circle mb-2" href=""><i
+                                        class="fab fa-facebook-f"></i></a>
+                                <a class="share-link btn btn-primary btn-md-square rounded-circle mb-2" href=""><i
+                                        class="fab fa-twitter"></i></a>
+                                <a class="share-link btn btn-primary btn-md-square rounded-circle mb-2" href=""><i
+                                        class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-delay="0.1s">
+                        <div class="team-item rounded">
+                            <img class="img-fluid rounded-top " src="" alt="" style="height: 345px; width: 100%;">
                             <div class="team-content text-center py-3 bg-dark rounded-bottom">
                                 <h4 class="text-primary">Member 1</h4>
                                 <p class="text-white mb-0">TiTle Goes Here</p>
@@ -1225,7 +1283,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="owl-carousel testimonial-carousel testimonial-carousel-2 wow bounceInUp"
+                <!-- <div class="owl-carousel testimonial-carousel testimonial-carousel-2 wow bounceInUp"
                     data-wow-delay="0.3s">
                     <div class="testimonial-item rounded bg-light" v-for="n in 4" :key="n">
                         <div class="d-flex mb-3">
@@ -1249,13 +1307,13 @@
                             <p class="fs-5 m-0 pt-3">Personal Comments and Ratings Goes Here</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
         <!-- Testimonial End -->
 
         <!-- Footer Start -->
-        <div class="container-fluid footer py-6 my-6 mb-0 bg-light wow bounceInUp" data-wow-delay="0.1s">
+        <div class="container-fluid footer py-4 my-6 mb-0 bg-light wow bounceInUp" data-wow-delay="0.1s">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-3 col-md-6">
@@ -1280,10 +1338,15 @@
                         <div class="footer-item">
                             <h4 class="mb-4">Special Facilities</h4>
                             <div class="d-flex flex-column align-items-start">
-                                <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>a</a>
-                                <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>b</a>
-                                <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>c</a>
-                                <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>d</a>
+                                <a class="text-body mb-3" href=""><i
+                                        class="fa fa-check text-primary text-capitalize me-2"></i>Seagrass
+                                    Conservation</a>
+                                <a class="text-body mb-3" href=""><i
+                                        class="fa fa-check text-primary text-capitalize me-2"></i>Biodiversity Preservation</a>
+                                <a class="text-body mb-3" href=""><i
+                                        class="fa fa-check text-primary text-capitalize me-2"></i>Ecotourism Development</a>
+                                <a class="text-body mb-3" href=""><i
+                                        class="fa fa-check text-primary text-capitalize me-2"></i>Erosion Control</a>
                             </div>
                         </div>
                     </div>
@@ -1291,7 +1354,7 @@
                         <div class="footer-item">
                             <h4 class="mb-4">Contact Us</h4>
                             <div class="d-flex flex-column align-items-start">
-                                <p><i class="fa fa-map-marker-alt text-primary me-2"></i> Vanga, Kwale - Kenya</p>
+                                <p><i class="fa fa-map-marker-alt text-primary me-2"></i>115 Lungalunga, Kwale - Kenya</p>
                                 <p><i class="fa fa-phone-alt text-primary me-2"></i> (+254) 0 723 298179</p>
                                 <p><i class="fas fa-envelope text-primary me-2"></i> info@jimbobmu.or.ke</p>
                                 <!-- <p><i class="fa fa-clock text-primary me-2"></i> 24/7 Hours BMUice</p> -->
@@ -1302,6 +1365,15 @@
                         <div class="footer-item">
                             <h4 class="mb-4">Social Gallery</h4>
                             <div class="row g-2">
+                                <div class="col-4">
+                                     <img src="img/menu-01.jpg" style="width: 80px; height: 80px;" class="img-fluid rounded-circle border border-primary p-2" alt="">
+                                </div>
+                                <div class="col-4">
+                                     <img src="img/menu-02.jpg" style="width: 80px; height: 80px;" class="img-fluid rounded-circle border border-primary p-2" alt="">
+                                </div>
+                                <div class="col-4">
+                                     <img src="img/menu-03.jpg" style="width: 80px; height: 80px;" class="img-fluid rounded-circle border border-primary p-2" alt="">
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -1316,8 +1388,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        <span class="text-light"><a href="#"><i class="fas fa-copyright text-light me-2"></i>Your Site
-                                Name</a>, All right reBMUed.</span>
+                        <span class="text-light"><a href="#"><i class="fas fa-copyright text-light me-2"></i>JimboBMU</a>, All rights reserved.</span>
                     </div>
                     <div class="col-md-6 my-auto text-center text-md-end text-white">
                         <!--/*** This template is free as long as you keep the below author’s credit link/attribution link/backlink. ***/-->
